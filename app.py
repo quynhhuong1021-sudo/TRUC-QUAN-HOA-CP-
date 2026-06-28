@@ -24,7 +24,7 @@ st.image("logo.jpg")
 # TIÊU ĐỀ
 # =============================
 st.title("📈 TRỰC QUAN HÓA GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL")
-st.subheader("Nguyễn Thanh Ngọc_đề tài 3")
+st.subheader("Nguyễn Hoàng Quỳnh Hương_đề tài 3")
 
 st.markdown("---")
 
