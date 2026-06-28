@@ -24,7 +24,7 @@ st.image("logo.jpg")
 # TIÊU ĐỀ
 # =============================
 st.title("📈 TRỰC QUAN HÓA GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL")
-st.subheader("Nguyễn Hoàng Quỳnh Hương_đề tài 3")
+st.subheader("TS. VŨ ĐỨC BÌNH")
 
 st.markdown("---")
 
@@ -136,8 +136,8 @@ if run:
     ax[1].set_title("Log Return")
     ax[1].set_ylabel("Return")
     ax[1].set_xlabel("Date")
-  ax[1].legend()
-    ax[1].grid(True)
+    ax[1].legend()
+ax[1].grid(True)
 
     plt.tight_layout()
 
